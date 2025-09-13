@@ -20,7 +20,7 @@ import {
   deleteDoc,
 } from "firebase/firestore";
 
-// --- Firebase Configuration ---
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyBXXvsxMWhczrXiDAZWDUMac9JN5ao9Gi4",
   authDomain: "tracker-ecad4.firebaseapp.com",
@@ -28,8 +28,9 @@ const firebaseConfig = {
   storageBucket: "tracker-ecad4.firebasestorage.app",
   messagingSenderId: "30000394986",
   appId: "1:30000394986:web:19ad128eda8b4fa5d7dd93",
-  measurementId: "G-RRL5XMR90W",
+  measurementId: "G-RRL5XMR90W"
 };
+const appId = 'profit-track-app'; // You can use this default name
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
