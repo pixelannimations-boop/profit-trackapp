@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/profit-trackapp/static/js/main.0681f52a.js",
+    "main.js": "/profit-trackapp/static/js/main.d1eb1712.js",
     "index.html": "/profit-trackapp/index.html",
-    "main.0681f52a.js.map": "/profit-trackapp/static/js/main.0681f52a.js.map"
+    "main.d1eb1712.js.map": "/profit-trackapp/static/js/main.d1eb1712.js.map"
   },
   "entrypoints": [
-    "static/js/main.0681f52a.js"
+    "static/js/main.d1eb1712.js"
   ]
 }
