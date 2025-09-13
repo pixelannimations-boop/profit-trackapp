@@ -1,2 +1,2 @@
 # profit-trackapp
-ebay tracking and calculator
+eBay tracking and calculator
